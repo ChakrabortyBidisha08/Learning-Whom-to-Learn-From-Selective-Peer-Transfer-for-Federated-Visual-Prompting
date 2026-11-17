@@ -14,7 +14,7 @@ Download all datasets into the `dataset/` folder.
 
 | Dataset | Heterogeneity studied | How to get it |
 |---|---|---|
-| [Caltech101](https://data.caltech.edu/records/mzrjq-6wc02), [OxfordPets](https://www.robots.ox.ac.uk/~vgg/data/pets/), [Flowers102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/), [Food101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/), [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Label shift (pathological) | Follow [dataset.md](pFedMoAP/dataset/dataset.md) |
+| [Caltech101](https://data.caltech.edu/records/mzrjq-6wc02), [OxfordPets](https://www.robots.ox.ac.uk/~vgg/data/pets/), [Flowers102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/), [Food101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/), [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Label shift (pathological) | Follow [dataset.md]([pFedMoAP/dataset/dataset.md](https://github.com/ljaiverson/pFedMoAP/blob/main/dataset/dataset.md)) |
 | [CIFAR-10 / CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html) | Label shift (Dirichlet) and temporal label shift | Downloaded automatically on the first run |
 | [DomainNet](https://ai.bu.edu/M3SDA/) | Feature and label shift | [Download here](https://github.com/med-air/FedBN) |
 | Office-Caltech10 | Feature and label shift | [Download here](https://github.com/med-air/FedBN) |
